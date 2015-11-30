@@ -1,3 +1,3 @@
-Create simple app for my friend on his requirements.
+Create simple app for Brian Andruzzi on his requirements.
 
-See live demo - http://salvero.github.io/friend_app/
+See live demo - http://salvero.github.io/BrianAndruzzi_app/
